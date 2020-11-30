@@ -2,7 +2,7 @@
 
 
 $type = "email"; // Set your type element for search e.g. email
-$apiKey = "IPLH-OQGD-IFOA-MVAY"; // Set your api key. | Api key format: XXXX-XXXX-XXXX-XXXX
+$apiKey = "XXXX-XXXX-XXXX-XXXX"; // Set your api key. | Api key format: XXXX-XXXX-XXXX-XXXX
 $leaksElements = [
 
   "example@email.com",
