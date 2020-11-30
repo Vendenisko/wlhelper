@@ -11,4 +11,4 @@ If you looks a mistake while using my script please add issue on github i will r
 # Disclaimer
 
 Searching not yours emails/phones/etc is illegal. 
-Script author not is not responsible for damages created by this script.
+Script author is not responsible for damages created by this script.
