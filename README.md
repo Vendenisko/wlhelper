@@ -11,7 +11,7 @@ Btw WeLeakInfo API sucks, so only works if type is an email. Also you can search
 Version 1.1
 - Added posibility view services and passwords from which leaked data.
 
-[![](https://i.ibb.co/kqGGMdZ/wlhelper.png)]
+![](https://i.ibb.co/kqGGMdZ/wlhelper.png)
 
 # Reqiurements
 
