@@ -6,12 +6,13 @@ If you looks a mistake while using my script please add issue on github i will r
 
 Btw WeLeakInfo API sucks, so only works if type is an email. Also you can search by nickname or phone number but no change the type. You must set type as email.
 
+Preview:
+![](https://i.ibb.co/kqGGMdZ/wlhelper.png)
+
 # Changelog
 
 Version 1.1
 - Added posibility view services and passwords from which leaked data.
-
-![](https://i.ibb.co/kqGGMdZ/wlhelper.png)
 
 # Reqiurements
 
