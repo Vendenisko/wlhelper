@@ -12,6 +12,7 @@ If you find a mistake while using my script please add issue on github i will re
 
 Version 1.1
 - Added posibility view services and passwords from which leaked data.
+
 Version 1.2
 - Added support to LeakCheck.net. 
 - You can change leak search engines by change variable searchIn: 0 = WeLeakInfo, 1 = LeakCheck.
