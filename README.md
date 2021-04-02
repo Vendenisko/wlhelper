@@ -1,6 +1,6 @@
 # WLHelper
 
-WLHelper it is simple **command-line** script, which bases on WeLeakInfo.to API.
+WLHelper it is simple **command-line** script, which bases on WeLeakInfo.to and LeakCheck.net API.
 Helps you for mass search email address or phone numbers.
 If you find a mistake while using my script please add issue on github i will repair this.
 
